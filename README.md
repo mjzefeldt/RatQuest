@@ -8,6 +8,6 @@ Just want to see an overview of the game? Checkout this video overview of the ga
 
 ![RatQuest - home single player board start](https://github.com/mjzefeldt/RatQuest/blob/master/board_start.png)
 
-[RatQuest - code editor gameplay](https://github.com/mjzefeldt/RatQuest/blob/master/code_editor_gameplay.png)
+![RatQuest - code editor gameplay](https://github.com/mjzefeldt/RatQuest/blob/master/code_editor_gameplay.png)
 
-[RatQuest - home single player board in-progress](https://github.com/mjzefeldt/RatQuest/blob/master/board_in-progress.png)
+![RatQuest - home single player board in-progress](https://github.com/mjzefeldt/RatQuest/blob/master/board_in-progress.png)
